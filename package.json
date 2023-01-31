@@ -1,0 +1,28 @@
+{
+  "name": "ts-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/troymathis/p-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/troymathis/p-typescript/issues"
+  },
+  "homepage": "https://github.com/troymathis/p-typescript#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.16",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
+  }
+}
